@@ -1,41 +1,41 @@
 
 .heading {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: bolder;
-    font-size: 100%;
-    color: rgb(2, 76, 2);
-    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+    font-weight: bolder !important;
+    font-size: 100% !important;
+    color: rgb(2, 76, 2) !important;
+    text-align: center !important;
 }
 .bg {
     background-image: url(../assets/img/trees.png)
 }
 .list {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: bold;
-    font-size: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+    font-weight: bold !important;
+    font-size: 100% !important;
 }
 .scroll {
-    font-family:cursive;
-    text-align: center;
+    font-family:cursive !important;
+    text-align: center !important;
 }
 .background {
-    border-width: 1px;
-    border-style:hidden;
-    background-color: antiquewhite;
-    width: 50%;
-    text-align: center;
+    border-width: 1px !important;
+    border-style:hidden !important;
+    background-color: antiquewhite !important;
+    width: 50% !important;
+    text-align: center !important;
 
 }
 .video {
- display: block;
- margin: 0 auto;
- text-align: center;
+ display: block !important;
+ margin: 0 auto !important;
+ text-align: center !important;
 }
 .border {
-    border-color: black;
-    border-width: 10px;
+    border-color: black !important;
+    border-width: 10px !important;
 
 }
 .width {
-    width:50%;
+    width:50% !important;
 }
